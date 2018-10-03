@@ -1,7 +1,6 @@
 # AMSoft
 
 ## Technologies Used
-[Digital Elevation Models](#https://github.com/adityaketkar/AMSoft/blob/adityaketkar-DEM/README.md#what-is-digital-elevation-modeldem-)
  <a href="https://github.com/adityaketkar/AMSoft/blob/adityaketkar-DEM/README.md#my-anchor">Digital Elevation Models</a>
 
 
